@@ -8,4 +8,6 @@ ECCV 2018 Contour Knowledge Transfer for Salient Object Detection http://openacc
 
 ECCV 2018 Dilated Pyramid Convolution and Deeper Bidirectional ConvLSTM for Video Salient Object Detection http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongmei_Song_Pseudo_Pyramid_Deeper_ECCV_2018_paper.pdf
 
-ECCV 2018 Unsupervised CNN-based Co-Saliency Detection with Graphical Optimization http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuang-Jui_Hsu_Unsupervised_CNN-based_co-saliency_ECCV_2018_paper.pdf
+ECCV 2018 Unsupervised CNN-based Co-Saliency Detection with Graphical Optimization http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuang-Jui_Hsu_Unsupervised_CNN-based_co-saliency_ECCV_2018_paper.pdf 
+
+ECCV 2018 Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuan-Ting_Hu_Unsupervised_Video_Object_ECCV_2018_paper.pdf
