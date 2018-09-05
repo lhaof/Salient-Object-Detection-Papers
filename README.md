@@ -1,8 +1,14 @@
 # fast-salient-object-detection
 
+CVPR 2018 Flow Guided Recurrent Neural Encoder for Video Salient Object Detection http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Flow_Guided_Recurrent_CVPR_2018_paper.pdf
+
 CVPR 2018 Salient Object Detection Driven by Fixation Prediction http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Salient_Object_Detection_CVPR_2018_paper.pdf 
 
 CVPR 2018 A Bi-directional Message Passing Model for Salient Object Detection http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_A_Bi-Directional_Message_CVPR_2018_paper.pdf
+
+CVPR 2018 Detect Globally, Refine Locally: A Novel Approach to Saliency Detection http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Detect_Globally_Refine_CVPR_2018_paper.pdf
+
+CVPR 2018 Revisiting Salient Object Detection: Simultaneous Detection, Ranking, and Subitizing of Multiple Salient Objects http://openaccess.thecvf.com/content_cvpr_2018/papers/Islam_Revisiting_Salient_Object_CVPR_2018_paper.pdf 
 
 ECCV 2018 Reverse Attention for Salient Object Detection https://arxiv.org/abs/1807.09940
 
