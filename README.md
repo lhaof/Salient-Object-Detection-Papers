@@ -1,5 +1,9 @@
 # fast-salient-object-detection
 
+CVPR 2018 Salient Object Detection Driven by Fixation Prediction http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Salient_Object_Detection_CVPR_2018_paper.pdf 
+
+CVPR 2018 A Bi-directional Message Passing Model for Salient Object Detection http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_A_Bi-Directional_Message_CVPR_2018_paper.pdf
+
 ECCV 2018 Reverse Attention for Salient Object Detection https://arxiv.org/abs/1807.09940
 
 ECCV 2018 Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground http://mftp.mmcheng.net/Papers/18ECCV-SOCBenchmark.pdf
