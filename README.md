@@ -1,4 +1,5 @@
 # Paper List: Salient Object Detection
+ICCV 2019 Motion Guided Attention for Video Salient Object Detection <a href="https://github.com/lhaof/Motion-Guided-Attention">code</a> 
 
 CVPR 2018 Flow Guided Recurrent Neural Encoder for Video Salient Object Detection http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Flow_Guided_Recurrent_CVPR_2018_paper.pdf
 
